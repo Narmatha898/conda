@@ -1,0 +1,1 @@
+Conda is a powerful command line tool for package and environment management that runs on Windows, macOS, and Linux.
